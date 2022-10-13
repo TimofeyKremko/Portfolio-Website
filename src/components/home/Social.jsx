@@ -7,16 +7,22 @@ const Social = () => {
         href="https://www.instagram.com/meteoraaah/"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-instagram"></i>
       </a>
-      <a href="" className="home__social-icon" target="_blank">
-        <i class="uil uil-dribbble"></i>
+      <a
+        href="https://www.linkedin.com/in/tsimafei-kremko-9781b5201/"
+        className="home__social-icon"
+        target="_blank" rel="noreferrer"
+      >
+        <i class="uil uil-linkedin"></i>
       </a>
       <a
         href="https://github.com/TimofeyKremko"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-github-alt"></i>
       </a>
