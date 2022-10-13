@@ -9,14 +9,15 @@ const Social = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <i class="uil uil-instagram"></i>
+        <i className="uil uil-instagram"></i>
       </a>
       <a
         href="https://www.linkedin.com/in/tsimafei-kremko-9781b5201/"
         className="home__social-icon"
-        target="_blank" rel="noreferrer"
+        target="_blank"
+        rel="noreferrer"
       >
-        <i class="uil uil-linkedin"></i>
+        <i className="uil uil-linkedin"></i>
       </a>
       <a
         href="https://github.com/TimofeyKremko"
@@ -24,7 +25,7 @@ const Social = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <i class="uil uil-github-alt"></i>
+        <i className="uil uil-github-alt"></i>
       </a>
     </div>
   );

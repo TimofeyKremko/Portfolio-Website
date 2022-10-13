@@ -93,22 +93,7 @@ const Qualification = () => {
               </div>
             </div>
 
-            <div className="qualification__data">
-              <div></div>
 
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-
-              <div>
-                <h3 className="qualification__title">Web Designer</h3>
-                <span className="qualification__subtitle">Sage Company</span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2019 - 2022
-                </div>
-              </div>
-            </div>
           </div>
 
           <div

@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const Frontend = () => {
   return (
@@ -7,14 +7,14 @@ const Frontend = () => {
       <div className="skills__box">
         <div className="skills__group">
           <div className="skills__data">
-            <i class="bx bx-badge"></i>
+            <i className="bx bx-badge"></i>
             <div>
               <h3 className="skills__name">React</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
           <div className="skills__data">
-            <i class="bx bx-badge"></i>
+            <i className="bx bx-badge"></i>
 
             <div>
               <h3 className="skills__name">Redux-Toolkit</h3>
@@ -22,7 +22,7 @@ const Frontend = () => {
             </div>
           </div>
           <div className="skills__data">
-            <i class="bx bx-badge"></i>
+            <i className="bx bx-badge"></i>
 
             <div>
               <h3 className="skills__name">Styled Components</h3>
@@ -30,7 +30,7 @@ const Frontend = () => {
             </div>
           </div>
           <div className="skills__data">
-            <i class="bx bx-badge"></i>
+            <i className="bx bx-badge"></i>
 
             <div>
               <h3 className="skills__name">HTTP</h3>
@@ -40,14 +40,14 @@ const Frontend = () => {
         </div>
         <div className="skills__group">
           <div className="skills__data">
-            <i class="bx bx-badge"></i>
+            <i className="bx bx-badge"></i>
             <div>
               <h3 className="skills__name">JavaScript</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
           <div className="skills__data">
-            <i class="bx bx-badge"></i>
+            <i className="bx bx-badge"></i>
 
             <div>
               <h3 className="skills__name">Github</h3>
@@ -55,7 +55,7 @@ const Frontend = () => {
             </div>
           </div>
           <div className="skills__data">
-            <i class="bx bx-badge"></i>
+            <i className="bx bx-badge"></i>
 
             <div>
               <h3 className="skills__name">HTML</h3>
@@ -63,7 +63,7 @@ const Frontend = () => {
             </div>
           </div>
           <div className="skills__data">
-            <i class="bx bx-badge"></i>
+            <i className="bx bx-badge"></i>
 
             <div>
               <h3 className="skills__name">CSS/SCSS</h3>
@@ -74,6 +74,6 @@ const Frontend = () => {
       </div>
     </div>
   );
-}
+};
 
-export default Frontend
+export default Frontend;
