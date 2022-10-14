@@ -92,8 +92,6 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
             </div>
-
-
           </div>
 
           <div
