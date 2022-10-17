@@ -5,6 +5,7 @@ import Work4 from "../../assets/work4.png";
 import Work5 from "../../assets/work5.png";
 import Work6 from "../../assets/work6.png";
 import Work7 from "../../assets/work7.png";
+import Work8 from "../../assets/work8.png";
 
 export const projectsData = [
   {
@@ -55,6 +56,13 @@ export const projectsData = [
     title: "Recipe App",
     category: "app",
     link: "https://timofeykremko.github.io/Recipe_App/",
+  },
+  {
+    id: 8,
+    image: Work8,
+    title: "Australia Buisness",
+    category: "web",
+    link: "https://timofeykremko.github.io/Australia-Buisness/",
   },
 ];
 
