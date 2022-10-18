@@ -68,12 +68,12 @@ export const projectsData = [
 
 export const projectsNav = [
   {
-    name: 'all',
+    name: "all",
   },
   {
-    name: 'web',
+    name: "web",
   },
   {
-    name: 'app',
-  }
-]
+    name: "app",
+  },
+];

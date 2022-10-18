@@ -1,15 +1,15 @@
-import React, { useState } from 'react'
-import "./header.css"
+import React, { useState } from "react";
+import "./header.css";
 
 const Header = () => {
-   window.addEventListener("scroll", function () {
-     const header = this.document.querySelector(".header");
-     if (this.scrollY >= 80) header.classList.add("scroll-header");
-     else header.classList.remove("scroll-header");
-   });
+  window.addEventListener("scroll", function () {
+    const header = this.document.querySelector(".header");
+    if (this.scrollY >= 80) header.classList.add("scroll-header");
+    else header.classList.remove("scroll-header");
+  });
 
-  const [Toggle, showMenu] = useState(false); 
-  const [activeNav, setActiveNav] = useState("#home")
+  const [Toggle, showMenu] = useState(false);
+  const [activeNav, setActiveNav] = useState("#home");
 
   return (
     <header className="header">
@@ -97,6 +97,6 @@ const Header = () => {
       </nav>
     </header>
   );
-}
+};
 
-export default Header
+export default Header;
